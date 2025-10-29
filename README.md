@@ -6,7 +6,7 @@ My name is Victor Andrade.
 🚀 Passionate about clean architecture, scalable systems, and cloud development.  
 🌱 Constantly learning and exploring new technologies to improve performance and reliability.
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/victorandradeedev/) | [Email](victoraao@hotmail.com)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/victorandradeedev/) | [Email](mailto:victoraao@hotmail.com)
 
 ---
 
