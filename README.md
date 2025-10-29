@@ -53,7 +53,7 @@ My name is Victor Andrade.
 ## ⚙️ Automation & Integrations
 
 <p align="center">
-  <img src="https://seeklogo.com/images/N/n8n-logo-8A8E3A8B91-seeklogo.com.png" width="45" alt="n8n"/>
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="45" alt="n8n"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" alt="Postman"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="45" alt="GraphQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="Docker"/>
