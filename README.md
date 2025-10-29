@@ -53,7 +53,7 @@ My name is Victor Andrade.
 ## ⚙️ Automation & Integrations
 
 <p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/n8n-io.svg" width="50" alt="n8n"/>
+  <img src="https://assets.findstack.com/qdvbks1ba1vrqqv89dw6vsom77cd" width="50" alt="n8n"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" alt="Postman"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="50" alt="GraphQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker"/>
